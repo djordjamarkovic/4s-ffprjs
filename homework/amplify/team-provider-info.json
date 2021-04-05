@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homework-dev-11729-authRole",
+      "UnauthRoleArn": "arn:aws:iam::176851800364:role/amplify-homework-dev-11729-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::176851800364:role/amplify-homework-dev-11729-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-homework-dev-11729-deployment",
+      "UnauthRoleName": "amplify-homework-dev-11729-unauthRole",
+      "StackName": "amplify-homework-dev-11729",
+      "StackId": "arn:aws:cloudformation:eu-central-1:176851800364:stack/amplify-homework-dev-11729/18f82130-9665-11eb-bcc5-06c85ac5bb70",
+      "AmplifyAppId": "du32s8oab8jgw"
+    },
+    "categories": {
+      "auth": {
+        "cognito8b92f0ae": {}
+      }
+    }
+  }
+}
