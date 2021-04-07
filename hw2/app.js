@@ -33,9 +33,9 @@ window.addEventListener('scroll',function () {
     const navHeight = navbar.getBoundingClientRect().height;
 
     if(scrollHeight > navHeight) {
-        navbar.classList.add('fix-nav');
+        navbar.classList.add('fixed-nav');
     } else {
-        navbar.classList.remove('fix-nav');
+        navbar.classList.remove('fixed-nav');
     }
 
     if(scrollHeight > navHeight + 200) {
