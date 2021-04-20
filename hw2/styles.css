@@ -334,10 +334,14 @@ header {
 }
 #about,
 #services,
+#projects,
 #tours {
   height: 80vh;
 }
 #services {
+  background: var(--clr-white);
+}
+#projects {
   background: var(--clr-white);
 }
 footer {
